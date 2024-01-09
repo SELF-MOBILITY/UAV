@@ -6,6 +6,4 @@ Adaptive autopilot and guidance of UAV
 ![loop](https://github.com/Friend-Peng/Adaptive-ArduPilot-Autopilot/blob/main/loop.jpg)
 
 请参考论文：
-10.1109/TMECH.2022.3145910
-10.1109/TCST.2023.3329908
-10.1109/CDC51059.2022.9993292
+10.1109/TMECH.2022.3145910  10.1109/TCST.2023.3329908  10.1109/CDC51059.2022.9993292
